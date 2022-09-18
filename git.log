@@ -46,3 +46,32 @@ mv: '/media/pi/ESD-USB/2022/20220916.mp4' を stat できません: そのよう
 "20220916.mp4"
 mv: '/media/pi/ESD-USB/2022/20220916.mp4' を stat できません: そのようなファイルやディレクトリはありません
 
+20220917
+"20220917.mp4"
+mv: '/media/pi/ESD-USB/20220917.mp4' を stat できません: そのようなファイルやディレクトリはありません
+
+20220917
+"20220917.mp4"
+success
+error: pathspec '20220917.mp4"' did not match any file(s) known to git
+Everything up-to-date
+20220917
+"20220917.mp4"
+success
+error: pathspec '20220917.mp4"' did not match any file(s) known to git
+Everything up-to-date
+20220917
+"20220917.mp4"
+success
+error: pathspec '20220917.mp4"' did not match any file(s) known to git
+Everything up-to-date
+20220917
+"20220917.mp4"
+success
+error: pathspec '20220917.mp4"' did not match any file(s) known to git
+Everything up-to-date
+20220917
+"20220917.mp4"
+success
+error: pathspec '20220917.mp4"' did not match any file(s) known to git
+Everything up-to-date
