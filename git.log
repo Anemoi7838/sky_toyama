@@ -75,3 +75,352 @@ Everything up-to-date
 success
 error: pathspec '20220917.mp4"' did not match any file(s) known to git
 Everything up-to-date
+20220917
+"20220917.mp4"
+mv: '/media/pi/ESD-USB/20220917.mp4' を stat できません: そのようなファイルやディレクトリはありません
+
+20220917
+"20220917.mp4"
+mv: '/media/pi/ESD-USB/20220917.mp4' を stat できません: そのようなファイルやディレクトリはありません
+
+20220917
+"20220917.mp4"
+mv: '/media/pi/ESD-USB/20220917.mp4' を stat できません: そのようなファイルやディレクトリはありません
+
+20220917
+"20220917.mp4"
+mv: '/media/pi/ESD-USB/20220917.mp4' を stat できません: そのようなファイルやディレクトリはありません
+
+20220917
+"20220917.mp4"
+mv: '/media/pi/ESD-USB/20220917.mp4' を stat できません: そのようなファイルやディレクトリはありません
+
+20220917
+"20220917.mp4"
+mv: '/media/pi/ESD-USB/20220917.mp4' を stat できません: そのようなファイルやディレクトリはありません
+
+20220918
+"20220918.mp4"
+success
+Already on 'master'
+M	git.log
+Your branch is up to date with 'origin/master'.
+error: pathspec '20220918.mp4"' did not match any file(s) known to git
+Everything up-to-date
+20220918
+"20220918.mp4"
+mv: '/media/pi/ESD-USB/20220918.mp4' を stat できません: そのようなファイルやディレクトリはありません
+
+20220918
+"20220918.mp4"
+mv: '/media/pi/ESD-USB/20220918.mp4' を stat できません: そのようなファイルやディレクトリはありません
+
+20220918
+"20220918.mp4"
+mv: '/media/pi/ESD-USB/20220918.mp4' を stat できません: そのようなファイルやディレクトリはありません
+
+20220918
+"20220918.mp4"
+mv: '/media/pi/ESD-USB/20220918.mp4' を stat できません: そのようなファイルやディレクトリはありません
+
+20220918
+"20220918.mp4"
+mv: '/media/pi/ESD-USB/20220918.mp4' を stat できません: そのようなファイルやディレクトリはありません
+
+20220919
+"20220919.mp4"
+success
+Already on 'master'
+A	2022/20220918.mp4
+M	git.log
+Your branch is up to date with 'origin/master'.
+error: pathspec '20220919.mp4"' did not match any file(s) known to git
+Everything up-to-date
+20220919
+"20220919.mp4"
+mv: '/media/pi/ESD-USB/20220919.mp4' を stat できません: そのようなファイルやディレクトリはありません
+
+20220919
+"20220919.mp4"
+mv: '/media/pi/ESD-USB/20220919.mp4' を stat できません: そのようなファイルやディレクトリはありません
+
+20220919
+"20220919.mp4"
+mv: '/media/pi/ESD-USB/20220919.mp4' を stat できません: そのようなファイルやディレクトリはありません
+
+20220919
+"20220919.mp4"
+mv: '/media/pi/ESD-USB/20220919.mp4' を stat できません: そのようなファイルやディレクトリはありません
+
+20220919
+"20220919.mp4"
+mv: '/media/pi/ESD-USB/20220919.mp4' を stat できません: そのようなファイルやディレクトリはありません
+
+20220920
+"20220920.mp4"
+success
+Already on 'master'
+A	2022/20220918.mp4
+A	2022/20220919.mp4
+M	git.log
+Your branch is up to date with 'origin/master'.
+error: pathspec '20220920.mp4"' did not match any file(s) known to git
+Everything up-to-date
+20220920
+"20220920.mp4"
+mv: '/media/pi/ESD-USB/20220920.mp4' を stat できません: そのようなファイルやディレクトリはありません
+
+20220920
+"20220920.mp4"
+mv: '/media/pi/ESD-USB/20220920.mp4' を stat できません: そのようなファイルやディレクトリはありません
+
+20220920
+"20220920.mp4"
+mv: '/media/pi/ESD-USB/20220920.mp4' を stat できません: そのようなファイルやディレクトリはありません
+
+20220920
+"20220920.mp4"
+mv: '/media/pi/ESD-USB/20220920.mp4' を stat できません: そのようなファイルやディレクトリはありません
+
+20220920
+"20220920.mp4"
+mv: '/media/pi/ESD-USB/20220920.mp4' を stat できません: そのようなファイルやディレクトリはありません
+
+20220921
+"20220921.mp4"
+success
+Already on 'master'
+A	2022/20220918.mp4
+A	2022/20220919.mp4
+A	2022/20220920.mp4
+M	git.log
+Your branch is up to date with 'origin/master'.
+error: pathspec '20220921.mp4"' did not match any file(s) known to git
+Everything up-to-date
+20220921
+"20220921.mp4"
+mv: '/media/pi/ESD-USB/20220921.mp4' を stat できません: そのようなファイルやディレクトリはありません
+
+20220921
+"20220921.mp4"
+mv: '/media/pi/ESD-USB/20220921.mp4' を stat できません: そのようなファイルやディレクトリはありません
+
+20220921
+"20220921.mp4"
+mv: '/media/pi/ESD-USB/20220921.mp4' を stat できません: そのようなファイルやディレクトリはありません
+
+20220921
+"20220921.mp4"
+mv: '/media/pi/ESD-USB/20220921.mp4' を stat できません: そのようなファイルやディレクトリはありません
+
+20220921
+"20220921.mp4"
+mv: '/media/pi/ESD-USB/20220921.mp4' を stat できません: そのようなファイルやディレクトリはありません
+
+20220922
+"20220922.mp4"
+success
+Already on 'master'
+A	2022/20220918.mp4
+A	2022/20220919.mp4
+A	2022/20220920.mp4
+A	2022/20220921.mp4
+M	git.log
+Your branch is up to date with 'origin/master'.
+error: pathspec '20220922.mp4"' did not match any file(s) known to git
+Everything up-to-date
+20220922
+"20220922.mp4"
+mv: '/media/pi/ESD-USB/20220922.mp4' を stat できません: そのようなファイルやディレクトリはありません
+
+20220922
+"20220922.mp4"
+mv: '/media/pi/ESD-USB/20220922.mp4' を stat できません: そのようなファイルやディレクトリはありません
+
+20220922
+"20220922.mp4"
+mv: '/media/pi/ESD-USB/20220922.mp4' を stat できません: そのようなファイルやディレクトリはありません
+
+20220922
+"20220922.mp4"
+mv: '/media/pi/ESD-USB/20220922.mp4' を stat できません: そのようなファイルやディレクトリはありません
+
+20220922
+"20220922.mp4"
+mv: '/media/pi/ESD-USB/20220922.mp4' を stat できません: そのようなファイルやディレクトリはありません
+
+20220923
+"20220923.mp4"
+success
+Already on 'master'
+A	2022/20220918.mp4
+A	2022/20220919.mp4
+A	2022/20220920.mp4
+A	2022/20220921.mp4
+A	2022/20220922.mp4
+M	git.log
+Your branch is up to date with 'origin/master'.
+error: pathspec '20220923.mp4"' did not match any file(s) known to git
+Everything up-to-date
+20220923
+"20220923.mp4"
+mv: '/media/pi/ESD-USB/20220923.mp4' を stat できません: そのようなファイルやディレクトリはありません
+
+20220923
+"20220923.mp4"
+mv: '/media/pi/ESD-USB/20220923.mp4' を stat できません: そのようなファイルやディレクトリはありません
+
+20220923
+"20220923.mp4"
+mv: '/media/pi/ESD-USB/20220923.mp4' を stat できません: そのようなファイルやディレクトリはありません
+
+20220923
+"20220923.mp4"
+mv: '/media/pi/ESD-USB/20220923.mp4' を stat できません: そのようなファイルやディレクトリはありません
+
+20220923
+"20220923.mp4"
+mv: '/media/pi/ESD-USB/20220923.mp4' を stat できません: そのようなファイルやディレクトリはありません
+
+20220924
+"20220924.mp4"
+success
+Already on 'master'
+A	2022/20220918.mp4
+A	2022/20220919.mp4
+A	2022/20220920.mp4
+A	2022/20220921.mp4
+A	2022/20220922.mp4
+A	2022/20220923.mp4
+M	git.log
+Your branch is up to date with 'origin/master'.
+error: pathspec '20220924.mp4"' did not match any file(s) known to git
+Everything up-to-date
+20220924
+"20220924.mp4"
+mv: '/media/pi/ESD-USB/20220924.mp4' を stat できません: そのようなファイルやディレクトリはありません
+
+20220924
+"20220924.mp4"
+mv: '/media/pi/ESD-USB/20220924.mp4' を stat できません: そのようなファイルやディレクトリはありません
+
+20220924
+"20220924.mp4"
+mv: '/media/pi/ESD-USB/20220924.mp4' を stat できません: そのようなファイルやディレクトリはありません
+
+20220924
+"20220924.mp4"
+mv: '/media/pi/ESD-USB/20220924.mp4' を stat できません: そのようなファイルやディレクトリはありません
+
+20220924
+"20220924.mp4"
+mv: '/media/pi/ESD-USB/20220924.mp4' を stat できません: そのようなファイルやディレクトリはありません
+
+20220925
+"20220925.mp4"
+success
+Already on 'master'
+A	2022/20220918.mp4
+A	2022/20220919.mp4
+A	2022/20220920.mp4
+A	2022/20220921.mp4
+A	2022/20220922.mp4
+A	2022/20220923.mp4
+A	2022/20220924.mp4
+M	git.log
+Your branch is up to date with 'origin/master'.
+error: pathspec '20220925.mp4"' did not match any file(s) known to git
+Everything up-to-date
+20220925
+"20220925.mp4"
+mv: '/media/pi/ESD-USB/20220925.mp4' を stat できません: そのようなファイルやディレクトリはありません
+
+20220925
+"20220925.mp4"
+mv: '/media/pi/ESD-USB/20220925.mp4' を stat できません: そのようなファイルやディレクトリはありません
+
+20220925
+"20220925.mp4"
+mv: '/media/pi/ESD-USB/20220925.mp4' を stat できません: そのようなファイルやディレクトリはありません
+
+20220925
+"20220925.mp4"
+mv: '/media/pi/ESD-USB/20220925.mp4' を stat できません: そのようなファイルやディレクトリはありません
+
+20220925
+"20220925.mp4"
+mv: '/media/pi/ESD-USB/20220925.mp4' を stat できません: そのようなファイルやディレクトリはありません
+
+20220926
+"20220926.mp4"
+success
+Already on 'master'
+A	2022/20220918.mp4
+A	2022/20220919.mp4
+A	2022/20220920.mp4
+A	2022/20220921.mp4
+A	2022/20220922.mp4
+A	2022/20220923.mp4
+A	2022/20220924.mp4
+A	2022/20220925.mp4
+M	git.log
+Your branch is up to date with 'origin/master'.
+error: pathspec '20220926.mp4"' did not match any file(s) known to git
+Everything up-to-date
+20220926
+"20220926.mp4"
+mv: '/media/pi/ESD-USB/20220926.mp4' を stat できません: そのようなファイルやディレクトリはありません
+
+20220926
+"20220926.mp4"
+mv: '/media/pi/ESD-USB/20220926.mp4' を stat できません: そのようなファイルやディレクトリはありません
+
+20220926
+"20220926.mp4"
+mv: '/media/pi/ESD-USB/20220926.mp4' を stat できません: そのようなファイルやディレクトリはありません
+
+20220926
+"20220926.mp4"
+mv: '/media/pi/ESD-USB/20220926.mp4' を stat できません: そのようなファイルやディレクトリはありません
+
+20220926
+"20220926.mp4"
+mv: '/media/pi/ESD-USB/20220926.mp4' を stat できません: そのようなファイルやディレクトリはありません
+
+20220927
+"20220927.mp4"
+success
+Already on 'master'
+A	2022/20220918.mp4
+A	2022/20220919.mp4
+A	2022/20220920.mp4
+A	2022/20220921.mp4
+A	2022/20220922.mp4
+A	2022/20220923.mp4
+A	2022/20220924.mp4
+A	2022/20220925.mp4
+A	2022/20220926.mp4
+M	git.log
+Your branch is up to date with 'origin/master'.
+error: pathspec '20220927.mp4"' did not match any file(s) known to git
+Everything up-to-date
+20220927
+"20220927.mp4"
+mv: '/media/pi/ESD-USB/20220927.mp4' を stat できません: そのようなファイルやディレクトリはありません
+
+20220927
+"20220927.mp4"
+mv: '/media/pi/ESD-USB/20220927.mp4' を stat できません: そのようなファイルやディレクトリはありません
+
+20220927
+"20220927.mp4"
+mv: '/media/pi/ESD-USB/20220927.mp4' を stat できません: そのようなファイルやディレクトリはありません
+
+20220927
+"20220927.mp4"
+mv: '/media/pi/ESD-USB/20220927.mp4' を stat できません: そのようなファイルやディレクトリはありません
+
+20220927
+"20220927.mp4"
+mv: '/media/pi/ESD-USB/20220927.mp4' を stat できません: そのようなファイルやディレクトリはありません
+
