@@ -1021,3 +1021,32 @@ mv: '/media/pi/ESD-USB/20221018.mp4' を stat できません: そのような�
 20221019
 "20221019.mp4"
 success
+[master 81058c9] add video
+ 2 files changed, 29 insertions(+)
+ create mode 100644 2022/20221019.mp4
+To github:Anemoi7838/sky_toyama.git
+   f902f0c..81058c9  master -> master
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+20221019
+"20221019.mp4"
+mv: '/media/pi/ESD-USB/20221019.mp4' を stat できません: そのようなファイルやディレクトリはありません
+
+20221019
+"20221019.mp4"
+mv: '/media/pi/ESD-USB/20221019.mp4' を stat できません: そのようなファイルやディレクトリはありません
+
+20221019
+"20221019.mp4"
+mv: '/media/pi/ESD-USB/20221019.mp4' を stat できません: そのようなファイルやディレクトリはありません
+
+20221019
+"20221019.mp4"
+mv: '/media/pi/ESD-USB/20221019.mp4' を stat できません: そのようなファイルやディレクトリはありません
+
+20221019
+"20221019.mp4"
+mv: '/media/pi/ESD-USB/20221019.mp4' を stat できません: そのようなファイルやディレクトリはありません
+
+20221020
+"20221020.mp4"
+success
