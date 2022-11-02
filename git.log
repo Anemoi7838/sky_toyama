@@ -1369,3 +1369,37 @@ mv: '/media/pi/ESD-USB/20221030.mp4' を stat できません: そのような�
 20221031
 "20221031.mp4"
 success
+[master a02806c] add video
+ 2 files changed, 29 insertions(+)
+ create mode 100644 2022/20221031.mp4
+To github:Anemoi7838/sky_toyama.git
+ ! [rejected]        master -> master (fetch first)
+error: failed to push some refs to 'github:Anemoi7838/sky_toyama.git'
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+20221031
+"20221031.mp4"
+mv: '/media/pi/ESD-USB/20221031.mp4' を stat できません: そのようなファイルやディレクトリはありません
+
+20221031
+"20221031.mp4"
+mv: '/media/pi/ESD-USB/20221031.mp4' を stat できません: そのようなファイルやディレクトリはありません
+
+20221031
+"20221031.mp4"
+mv: '/media/pi/ESD-USB/20221031.mp4' を stat できません: そのようなファイルやディレクトリはありません
+
+20221031
+"20221031.mp4"
+mv: '/media/pi/ESD-USB/20221031.mp4' を stat できません: そのようなファイルやディレクトリはありません
+
+20221031
+"20221031.mp4"
+mv: '/media/pi/ESD-USB/20221031.mp4' を stat できません: そのようなファイルやディレクトリはありません
+
+20221101
+"20221101.mp4"
+success
