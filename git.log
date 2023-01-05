@@ -3327,3 +3327,104 @@ mv: '/media/pi/ESD-USB/20221230.mp4' を stat できません: そのような�
 20221231
 "20221231.mp4"
 success
+[master 5f62fd2] add video
+ 2 files changed, 32 insertions(+)
+ create mode 100644 2022/20221231.mp4
+From github:Anemoi7838/sky_toyama
+ * branch            master     -> FETCH_HEAD
+Already up to date.
+To github:Anemoi7838/sky_toyama.git
+   a30ef3e..5f62fd2  master -> master
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+20221231
+"20221231.mp4"
+mv: '/media/pi/ESD-USB/20221231.mp4' を stat できません: そのようなファイルやディレクトリはありません
+
+20221231
+"20221231.mp4"
+mv: '/media/pi/ESD-USB/20221231.mp4' を stat できません: そのようなファイルやディレクトリはありません
+
+20221231
+"20221231.mp4"
+mv: '/media/pi/ESD-USB/20221231.mp4' を stat できません: そのようなファイルやディレクトリはありません
+
+20221231
+"20221231.mp4"
+mv: '/media/pi/ESD-USB/20221231.mp4' を stat できません: そのようなファイルやディレクトリはありません
+
+20221231
+"20221231.mp4"
+mv: '/media/pi/ESD-USB/20221231.mp4' を stat できません: そのようなファイルやディレクトリはありません
+
+20230101
+"20230101.mp4"
+mv: '/media/pi/ESD-USB/20230101.mp4' から '/home/pi/sky_toyama/2023/' へ移動できません: ディレクトリではありません
+
+20230101
+"20230101.mp4"
+mv: '/media/pi/ESD-USB/20230101.mp4' から '/home/pi/sky_toyama/2023/' へ移動できません: ディレクトリではありません
+
+20230101
+"20230101.mp4"
+mv: '/media/pi/ESD-USB/20230101.mp4' から '/home/pi/sky_toyama/2023/' へ移動できません: ディレクトリではありません
+
+20230101
+"20230101.mp4"
+mv: '/media/pi/ESD-USB/20230101.mp4' から '/home/pi/sky_toyama/2023/' へ移動できません: ディレクトリではありません
+
+20230101
+"20230101.mp4"
+mv: '/media/pi/ESD-USB/20230101.mp4' から '/home/pi/sky_toyama/2023/' へ移動できません: ディレクトリではありません
+
+20230101
+"20230101.mp4"
+mv: '/media/pi/ESD-USB/20230101.mp4' から '/home/pi/sky_toyama/2023/' へ移動できません: ディレクトリではありません
+
+20230102
+"20230102.mp4"
+mv: '/media/pi/ESD-USB/20230102.mp4' から '/home/pi/sky_toyama/2023/' へ移動できません: ディレクトリではありません
+
+20230102
+"20230102.mp4"
+mv: '/media/pi/ESD-USB/20230102.mp4' から '/home/pi/sky_toyama/2023/' へ移動できません: ディレクトリではありません
+
+20230102
+"20230102.mp4"
+mv: '/media/pi/ESD-USB/20230102.mp4' から '/home/pi/sky_toyama/2023/' へ移動できません: ディレクトリではありません
+
+20230102
+"20230102.mp4"
+mv: '/media/pi/ESD-USB/20230102.mp4' から '/home/pi/sky_toyama/2023/' へ移動できません: ディレクトリではありません
+
+20230102
+"20230102.mp4"
+mv: '/media/pi/ESD-USB/20230102.mp4' から '/home/pi/sky_toyama/2023/' へ移動できません: ディレクトリではありません
+
+20230102
+"20230102.mp4"
+mv: '/media/pi/ESD-USB/20230102.mp4' から '/home/pi/sky_toyama/2023/' へ移動できません: ディレクトリではありません
+
+20230103
+"20230103.mp4"
+mv: '/media/pi/ESD-USB/20230103.mp4' から '/home/pi/sky_toyama/2023/' へ移動できません: ディレクトリではありません
+
+20230103
+"20230103.mp4"
+mv: '/media/pi/ESD-USB/20230103.mp4' から '/home/pi/sky_toyama/2023/' へ移動できません: ディレクトリではありません
+
+20230103
+"20230103.mp4"
+mv: '/media/pi/ESD-USB/20230103.mp4' から '/home/pi/sky_toyama/2023/' へ移動できません: ディレクトリではありません
+
+20230103
+"20230103.mp4"
+mv: '/media/pi/ESD-USB/20230103.mp4' から '/home/pi/sky_toyama/2023/' へ移動できません: ディレクトリではありません
+
+20230103
+"20230103.mp4"
+mv: '/media/pi/ESD-USB/20230103.mp4' から '/home/pi/sky_toyama/2023/' へ移動できません: ディレクトリではありません
+
+20230103
+"20230103.mp4"
+mv: '/media/pi/ESD-USB/20230103.mp4' を stat できません: そのようなファイルやディレクトリはありません
+
