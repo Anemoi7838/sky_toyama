@@ -1430,3 +1430,39 @@ mv: '/media/pi/ESD-USB/20230217.mp4' を stat できません: そのような�
 20230218
 "20230218.mp4"
 success
+[master 3a7c1be] add video
+ 2 files changed, 36 insertions(+)
+ create mode 100644 2023/20230218.mp4
+ssh: Could not resolve hostname github.com: Temporary failure in name resolution
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+ssh: Could not resolve hostname github.com: Temporary failure in name resolution
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+20230218
+"20230218.mp4"
+mv: '/media/pi/ESD-USB/20230218.mp4' を stat できません: そのようなファイルやディレクトリはありません
+
+20230218
+"20230218.mp4"
+mv: '/media/pi/ESD-USB/20230218.mp4' を stat できません: そのようなファイルやディレクトリはありません
+
+20230218
+"20230218.mp4"
+mv: '/media/pi/ESD-USB/20230218.mp4' を stat できません: そのようなファイルやディレクトリはありません
+
+20230218
+"20230218.mp4"
+mv: '/media/pi/ESD-USB/20230218.mp4' を stat できません: そのようなファイルやディレクトリはありません
+
+20230218
+"20230218.mp4"
+mv: '/media/pi/ESD-USB/20230218.mp4' を stat できません: そのようなファイルやディレクトリはありません
+
+20230219
+"20230219.mp4"
+success
