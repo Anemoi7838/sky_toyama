@@ -4461,3 +4461,16 @@ Branch 'master' set up to track remote branch 'master' from 'origin'.
 20230417
 "20230417.mp4"
 success
+[master 34fefb1] add video
+ 1 file changed, 11 insertions(+)
+From github:Anemoi7838/sky_toyama
+ * branch            master     -> FETCH_HEAD
+Already up to date.
+ssh: Could not resolve hostname github.com: Temporary failure in name resolution
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+20230417
+"20230417.mp4"
+success
