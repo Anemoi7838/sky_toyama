@@ -6100,3 +6100,16 @@ Branch 'master' set up to track remote branch 'master' from 'origin'.
 20230509
 "20230509.mp4"
 success
+[master 5ec6826] add video
+ 1 file changed, 12 insertions(+)
+From github:Anemoi7838/sky_toyama
+ * branch            master     -> FETCH_HEAD
+Already up to date.
+remote: Resolving deltas:   0% (0/2)        remote: Resolving deltas:  50% (1/2)        remote: Resolving deltas: 100% (2/2)        remote: Resolving deltas: 100% (2/2), completed with 2 local objects.        
+remote: fatal error in commit_refs        
+To github:Anemoi7838/sky_toyama.git
+ ! [remote rejected] master -> master (failure)
+error: failed to push some refs to 'github:Anemoi7838/sky_toyama.git'
+20230509
+"20230509.mp4"
+success
