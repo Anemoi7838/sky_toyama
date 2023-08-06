@@ -12202,3 +12202,36 @@ Branch 'master' set up to track remote branch 'master' from 'origin'.
 20230805
 "20230805.mp4"
 success
+[master 4fef4bc] add video
+ 1 file changed, 34 insertions(+)
+From github:Anemoi7838/sky_toyama
+ * branch            master     -> FETCH_HEAD
+Already up to date.
+To github:Anemoi7838/sky_toyama.git
+   3b03c90..4fef4bc  master -> master
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+20230805
+"20230805.mp4"
+success
+error: file write error: デバイスに空き領域がありません
+fatal: unable to write sha1 file
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+	modified:   2023/20230805.mp4
+	modified:   git.log
+
+no changes added to commit
+From github:Anemoi7838/sky_toyama
+ * branch            master     -> FETCH_HEAD
+There are no candidates for merging among the refs that you just fetched.
+Generally this means that you provided a wildcard refspec which had no
+matches on the remote end.
+error: failed to write new configuration file /home/pi/sky_toyama/.git/config.lock
+error: failed to write new configuration file /home/pi/sky_toyama/.git/config.lock
+Everything up-to-date
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+20230806
+"20230806.mp4"
+success
